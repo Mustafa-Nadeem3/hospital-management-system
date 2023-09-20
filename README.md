@@ -71,6 +71,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact Information
 
-For any questions or inquiries, please contact [Your Name] at [Your Email Address].
+For any questions or inquiries, please contact Mustafa Nadeem at mustafanad007@gmail.com.
 
 Feel free to customize this README file with your name, contact information, and any additional acknowledgments or relevant details specific to your project.
